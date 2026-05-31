@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+
+.ipynb_checkpoints/
+
+# Runtime CSV files created by the library management app
+books.csv
+patrons.csv
+borrowed_books.csv
+
+# Local environments and editor files
+.venv/
+venv/
+.env
+.vscode/
+.idea/
+
